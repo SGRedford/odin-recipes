@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: rgb(210, 201, 201);
+    color: rgb(85, 83, 83);
+}
+
+.header {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+}
+
+a {
+    color: rgb(23, 138, 123);
+}
