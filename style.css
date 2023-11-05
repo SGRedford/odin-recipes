@@ -9,8 +9,38 @@ body {
     color: black;
     font-weight: 800;
     text-align: center;
+    font-size: 40px;
 }
 
 a {
-    color: rgb(23, 138, 123);
+    color: rgb(6, 71, 62);
 }
+
+.block-one {
+    text-align: center;
+    font-size: 10px;
+}
+
+.home-image {
+    display: block;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block-two {
+    font-size: 30px;
+}
+
+.ullist-one {
+    list-style-type: none;
+    display:flex;
+    justify-content: center;  
+}
+
+.ullist-one .lilist-one {
+    display: list-item;
+    padding: 5px 10px;
+    margin: 0 3px;
+}
+
