@@ -1,8 +1,18 @@
 
 
 body {
-    background-color: rgb(210, 201, 201);
-    color: rgb(85, 83, 83);
+    color: rgb(64, 61, 61);      
+}
+
+#altpage {
+    background: linear-gradient(rgba(255, 0, 0, 0.200), rgba(0, 0, 0, 0.300));
+    background-size: cover;
+}
+
+#frontpage {
+    background-color: rgb(255, 0, 0, 0.200);
+    padding: 40px;
+    margin: 100px auto;    
 }
 
 .header {
@@ -40,9 +50,14 @@ a {
     justify-content: center;  
 }
 
-.ullist-one .lilist-one {
+.lilist-one {
     display: list-item;
     padding: 5px 10px;
     margin: 0 3px;
 }
 
+.container {
+    margin: 0 auto;
+    padding: 40px;
+    font-size: 20px;
+}
