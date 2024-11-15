@@ -1,63 +1,61 @@
-
-
 body {
-    color: rgb(64, 61, 61);      
+  color: rgb(64, 61, 61);
 }
 
 #altpage {
-    background: linear-gradient(rgba(255, 0, 0, 0.200), rgba(0, 0, 0, 0.300));
-    background-size: cover;
+  background: linear-gradient(rgba(206, 202, 202, 0.949), rgba(0, 0, 0, 0.3));
+  background-size: cover;
 }
 
 #frontpage {
-    background-color: rgb(255, 0, 0, 0.200);
-    padding: 40px;
-    margin: 100px auto;    
+  background-color: rgb(255, 0, 0, 0.2);
+  padding: 40px;
+  margin: 100px auto;
 }
 
 .header {
-    color: black;
-    font-weight: 800;
-    text-align: center;
-    font-size: 40px;
+  color: black;
+  font-weight: 800;
+  text-align: center;
+  font-size: 40px;
 }
 
 a {
-    color: rgb(6, 71, 62);
-    text-decoration: none;
+  color: rgb(6, 71, 62);
+  text-decoration: none;
 }
 
 .block-one {
-    text-align: center;
-    font-size: 10px;
+  text-align: center;
+  font-size: 10px;
 }
 
 .home-image {
-    display: block;
-    height: 500px;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  height: 500px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .block-two {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .ullist-one {
-    list-style-type: none;
-    display:flex;
-    justify-content: center;  
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
 }
 
 .lilist-one {
-    display: list-item;
-    padding: 5px 10px;
-    margin: 0 3px;
+  display: list-item;
+  padding: 5px 10px;
+  margin: 0 3px;
 }
 
 .container {
-    margin: 0 auto;
-    padding: 40px;
-    font-size: 20px;
+  margin: 0 auto;
+  padding: 40px;
+  font-size: 20px;
 }
